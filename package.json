@@ -1,0 +1,19 @@
+{
+  "name": "gauntlet",
+  "version": "1.0.0",
+  "description": "A simple mocking library to test your Discord.js bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tannnxr/gauntletv2.git"
+  },
+  "author": "tanner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tannnxr/gauntletv2/issues"
+  },
+  "homepage": "https://github.com/tannnxr/gauntletv2#readme"
+}
